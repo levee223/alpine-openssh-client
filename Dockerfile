@@ -1,2 +1,2 @@
-FROM alpine:3.10.3
+FROM alpine
 RUN apk add --no-cache openssh-client
